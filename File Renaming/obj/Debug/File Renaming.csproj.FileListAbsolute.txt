@@ -1,0 +1,22 @@
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\bin\Debug\File Renaming.exe.config
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\bin\Debug\File Renaming.exe
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\bin\Debug\File Renaming.pdb
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\obj\Debug\File Renaming.csproj.AssemblyReference.cache
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\obj\Debug\File Renaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\obj\Debug\File_Renaming.Form1.resources
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\obj\Debug\File_Renaming.Properties.Resources.resources
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\obj\Debug\File Renaming.csproj.GenerateResource.cache
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\obj\Debug\File Renaming.csproj.CoreCompileInputs.cache
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\obj\Debug\File Renaming.exe
+C:\Users\mouad\OneDrive\Bureau\File Renaming\File Renaming\obj\Debug\File Renaming.pdb
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\bin\Debug\File Renaming.exe.config
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\bin\Debug\File Renaming.exe
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\bin\Debug\File Renaming.pdb
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\obj\Debug\File Renaming.csproj.AssemblyReference.cache
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\obj\Debug\File Renaming.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\obj\Debug\File_Renaming.Form1.resources
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\obj\Debug\File_Renaming.Properties.Resources.resources
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\obj\Debug\File Renaming.csproj.GenerateResource.cache
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\obj\Debug\File Renaming.csproj.CoreCompileInputs.cache
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\obj\Debug\File Renaming.exe
+C:\Users\mouad\OneDrive\Bureau\Fiverr\File Renaming\File Renaming\obj\Debug\File Renaming.pdb

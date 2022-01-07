@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2ed3a31-ab44-459b-a6a9-e86c49d2631f": {
+      "ProjectGuid": "d2ed3a31-ab44-459b-a6a9-e86c49d2631f",
+      "DisplayName": "File Renaming",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
